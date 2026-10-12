@@ -5,8 +5,8 @@
   "trialed": false,
   "files": {
     "assets/annotator.js": "bfa6120e9024b13964eedd2aa7320ad6355c16982788587d533defa8ce6d53d6",
+    "assets/deck.c7b7282c221e.js": "c7b7282c221edcef2fe909a1ce19b8e77db81aece2a0f5c5b93d6b4448b47122",
     "assets/deck.css": "faf3852b43730643a9652c41db74b711b3f75fad8e6c412201df572d6fd480b9",
-    "assets/deck.js": "c7b7282c221edcef2fe909a1ce19b8e77db81aece2a0f5c5b93d6b4448b47122",
     "assets/katex/auto-render.min.js": "7b57d427ac6270677daf8d8380ded2cc73336f9149a167b8e1fe0d6ef66604ae",
     "assets/katex/fonts/KaTeX_AMS-Regular.ttf": "68534840bcfdd2bffb6f0e8deb48684dd01e7f04ea2813267577afb906de1d13",
     "assets/katex/fonts/KaTeX_AMS-Regular.woff": "30da91e84c893f875e252689faebdc590b2871145e8adc7f9a9d4dbd8ce0b251",
@@ -70,7 +70,7 @@
     "assets/katex/fonts/KaTeX_Typewriter-Regular.woff2": "71d517d67827787cfabdf186914cc3358eda539e37931941f2b2fd4a21f68c0b",
     "assets/katex/katex.min.css": "717bc9ae7853b61f0f76455dddf0ecd4f527a783f42de2ac24684899c1c46258",
     "assets/katex/katex.min.js": "e6bfe5deebd4c7ccd272055bab63bd3ab2c73b907b6e6a22d352740a81381fd4",
-    "index.html": "44df79d85bf7a7c80deac833c60e62878ab32dd232b45ce1d7a95ab9a1cb1ad1",
+    "index.html": "7051c5d44dda6d3c6ba78509ef2c40fd29c308a2f8fb0602c84d0fd22bac2d94",
     "teacher.html": "b5b9b42d15e9e8cb7ed97d73484b6927630a9918f64f85872037d4434c68c894"
   }
 }
